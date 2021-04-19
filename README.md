@@ -5,4 +5,4 @@ This repository contains file used by [cognitive-services-speech-sdk](https://gi
 * https://aka.ms/csspeech/linuxbinary
 * https://aka.ms/csspeech/macosbinary 
 
-These links contains always latest available version released by Microsoft. Putting these files into this repository gives us the flexibility to support whatever version(s).
+These links contains always latest available version released by Microsoft. Putting these files into this repository gives us the flexibility to support whatever version(s). This file is used by [build script](https://github.com/jabber-tools/cognitive-services-speech-sdk-rs/blob/main/build.rs) of *cognitive-services-speech-sdk-rs*.
